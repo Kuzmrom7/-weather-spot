@@ -1,13 +1,13 @@
 {
   "main.css": "/weather-spot/static/css/main.a78c83e0.chunk.css",
-  "main.js": "/weather-spot/static/js/main.0102421c.chunk.js",
-  "main.js.map": "/weather-spot/static/js/main.0102421c.chunk.js.map",
+  "main.js": "/weather-spot/static/js/main.969d749a.chunk.js",
+  "main.js.map": "/weather-spot/static/js/main.969d749a.chunk.js.map",
   "runtime~main.js": "/weather-spot/static/js/runtime~main.f35108ba.js",
   "runtime~main.js.map": "/weather-spot/static/js/runtime~main.f35108ba.js.map",
   "static/js/2.e15f74db.chunk.js": "/weather-spot/static/js/2.e15f74db.chunk.js",
   "static/js/2.e15f74db.chunk.js.map": "/weather-spot/static/js/2.e15f74db.chunk.js.map",
   "index.html": "/weather-spot/index.html",
-  "precache-manifest.c321b444b189730f530cd658d212e753.js": "/weather-spot/precache-manifest.c321b444b189730f530cd658d212e753.js",
+  "precache-manifest.27c2328aba7a662dff460090b97e552b.js": "/weather-spot/precache-manifest.27c2328aba7a662dff460090b97e552b.js",
   "service-worker.js": "/weather-spot/service-worker.js",
   "static/css/main.a78c83e0.chunk.css.map": "/weather-spot/static/css/main.a78c83e0.chunk.css.map"
 }

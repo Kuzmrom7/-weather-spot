@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "58e2c6afbd2abc25136b",
+    "revision": "0b7f028771f1234808c4",
     "url": "/weather-spot/static/css/main.a78c83e0.chunk.css"
   },
   {
-    "revision": "58e2c6afbd2abc25136b",
-    "url": "/weather-spot/static/js/main.0102421c.chunk.js"
+    "revision": "0b7f028771f1234808c4",
+    "url": "/weather-spot/static/js/main.969d749a.chunk.js"
   },
   {
     "revision": "5384b6dbf988ae38dc1f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/weather-spot/static/js/2.e15f74db.chunk.js"
   },
   {
-    "revision": "a1a0f20f045cd8461af13f6a741c490e",
+    "revision": "015e41b436369e0456dae17c72cd0b44",
     "url": "/weather-spot/index.html"
   }
 ];
