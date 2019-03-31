@@ -6,12 +6,12 @@ interface IProps {
 }
 
 const Weather : SFC<IProps> = ({ data }) => (
-  <div className="container-weather">
+  <div className="container__weather">
     {data.cod !== 200 ? (
       <h2>Not found</h2>
     ) : (
       <>
-        <div className="ico">
+        <div className="container__weather__ico">
           <Icon iconType={data.weather[0].icon} />
         </div>
         <h2>
