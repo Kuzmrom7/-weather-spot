@@ -2,21 +2,26 @@
   "name": "weather-spot",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://kuzmrom7.github.io/weather-spot",
   "dependencies": {
     "@types/jest": "24.0.11",
     "@types/node": "11.12.2",
     "@types/react": "16.8.10",
     "@types/react-dom": "16.8.3",
+    "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
-    "typescript": "3.4.1"
+    "typescript": "3.4.1",
+    "weather-icons-react": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -26,5 +31,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
