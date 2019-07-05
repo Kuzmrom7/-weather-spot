@@ -1,10 +1,14 @@
+import React, { SFC } from "react";
 
-import React ,{SFC} from 'react';
-
-const citys : Array<string>= ['Moscow', 'Sankt-Peterburg', 'Kaliningrad', 'Orsk'];
+const citys: Array<string> = [
+  "Moscow",
+  "Sankt-Peterburg",
+  "Kaliningrad",
+  "Orsk"
+];
 
 interface IProps {
-    onClick: Function
+  onClick: Function;
 }
 
 const Chips: SFC<IProps> = ({ onClick }) => (
